@@ -12,18 +12,6 @@
 
 - 📫 How to reach me **mdshajib8190@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shajibewu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shajibewu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shajibewucse19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shajibewucse19" height="30" width="40" /></a>
-<a href="https://fb.com/shajibewucse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajibewucse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shajibewucse19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shajibewucse19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sparr0w_2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sparr0w_2023" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shajibewucse19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shajibewucse19" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@md.shajibulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@md.shajibulislam" height="30" width="40" /></a>
-<a href="https://discord.gg/Shajib#5227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shajib#5227" height="30" width="40" /></a>
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajibewucse19&show_icons=true&locale=en&layout=compact" alt="shajibewucse19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajibewucse19&" alt="shajibewucse19" /></p>
