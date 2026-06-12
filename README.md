@@ -66,11 +66,12 @@ Full publication profile: **[Google Scholar](https://scholar.google.com/citation
 
 | Research Work | Status |
 |---|---|
-| Liver Tumor Detection Using CLAHE Histogram Equalization and U-Net Model From 3D CT Scan Images | Published |
+| Liver Tumor Detection Using CLAHE Histogram Equalization and U-Net Model From 3D CT Scan Images | Accepted for publication |
+| E-waste Management System for Bangladesh | Accepted for publication |
 | Comprehensive Dataset of Annotated Rice Panicle Image from Bangladesh | Published |
 | Impact of AI in Healthcare Services: Analysis Using Medical Synthetic Data | Published |
-| A Comprehensive Analysis of Rice Panicle Detection from Bangladesh Using Transfer Learning | Accepted |
-| Image Processing & Deep Learning Based Road Object Detection System for Safe Transportation |Published |
+| A Comprehensive Analysis of Rice Panicle Detection from Bangladesh Using Transfer Learning | Accepted for publication |
+| Image Processing & Deep Learning Based Road Object Detection System for Safe Transportation | Accepted for publication |
 
 ## Education & Professional Learning
 
@@ -80,6 +81,7 @@ Full publication profile: **[Google Scholar](https://scholar.google.com/citation
 | Thesis | Image Processing & Deep Learning Based Road Object Detection System for Safe Transportation |
 | Graduate Teaching Assistant | Data Science and Machine Learning courses |
 | Bootcamp | [Data Science, Machine Learning & MLOps](https://www.bongodev.com/courses/machine-learning), 6-month hands-on training in ML, DL, AI, Generative AI, and practical AI agents using Python |
+| Course instructor | Masum Bhuiyan, Lecturer at Jahangirnagar University and Ex ML Engineer at Samsung Research |
 
 ## Android Engineering
 
@@ -174,3 +176,4 @@ Full publication profile: **[Google Scholar](https://scholar.google.com/citation
     <img src="https://img.shields.io/badge/Project-DhakaRoadNet%20EdgeAI-0B6B4A?style=flat&logo=github&logoColor=white" alt="DhakaRoadNet EdgeAI" />
   </a>
 </p>
+
