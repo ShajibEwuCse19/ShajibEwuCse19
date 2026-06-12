@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ShajibEwuCse19/ShajibEwuCse19/blob/main/BUET_CSE_FEST.jpg" alt="BUET CSE Fest 2022" width="720">
+  <img src="https://github.com/ShajibEwuCse19/ShajibEwuCse19/blob/main/BUET_CSE_FEST.jpg" alt="BUET CSE Fest 2022" width="500" height="300">
 </p>
 
 <h1 align="center">Md. Shajibul Islam</h1>
