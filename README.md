@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ShajibEwuCse19/ShajibEwuCse19/blob/main/BUET_CSE_FEST.jpg" alt="BUET CSE Fest 2022" width="500" height="300">
+  <img src="https://github.com/ShajibEwuCse19/ShajibEwuCse19/blob/main/BUET_CSE_FEST.jpg" alt="Inter-University Programming Contest 2022, BUET CSE FEST" title="Inter-University Programming Contest 2022, BUET CSE FEST" width="400" height="250">
+  <br>
+  <strong>Inter-University Programming Contest 2022, BUET CSE FEST</strong>
 </p>
 
 <h1 align="center">Md. Shajibul Islam</h1>
@@ -176,4 +178,3 @@ Full publication profile: **[Google Scholar](https://scholar.google.com/citation
     <img src="https://img.shields.io/badge/Project-DhakaRoadNet%20EdgeAI-0B6B4A?style=flat&logo=github&logoColor=white" alt="DhakaRoadNet EdgeAI" />
   </a>
 </p>
-
