@@ -68,7 +68,7 @@ Full publication profile: **[Google Scholar](https://scholar.google.com/citation
 
 | Research Work | Status |
 |---|---|
-| DhakaRoadNet: An Offline Edge AI Framework for Road-Object Detection in Dhaka Traffic Using YOLOv8n and TensorFlow Lite | Submitted to COMPAS 26; First Author |
+| DhakaRoadNet: An Offline Edge AI Framework for Road-Object Detection in Dhaka Traffic Using YOLOv8n and TensorFlow Lite | Submitted to IDAA 27; First Author |
 | Liver Tumor Detection Using CLAHE Histogram Equalization and U-Net Model From 3D CT Scan Images | Published |
 | Comprehensive Dataset of Annotated Rice Panicle Image from Bangladesh | Published |
 | Impact of AI in Healthcare Services: Analysis Using Medical Synthetic Data | Published |
